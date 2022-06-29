@@ -14,7 +14,8 @@ e-book 사용시 불편함을 해결하고자 개발하였음. (2022-06-29)
  실행방법
  
  0. 캡처 프로그램이 필요한데, scapture(에스캡처) 를 설치해야한다.
- ![image](https://user-images.githubusercontent.com/33335762/176366298-7d17f020-9781-4d3a-9c9f-cfd3649f3f84.png)
+
+![image](https://user-images.githubusercontent.com/33335762/176366298-7d17f020-9781-4d3a-9c9f-cfd3649f3f84.png)
 + 에스 캡처 실행시, 작은 창이 뜰텐데 '상세'를 클릭한다.
 
 ![image](https://user-images.githubusercontent.com/33335762/176366507-a5fa47db-f152-44fe-979b-fafacd138473.png)
